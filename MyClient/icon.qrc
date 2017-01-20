@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>clip.ico</file>
+    </qresource>
+</RCC>
